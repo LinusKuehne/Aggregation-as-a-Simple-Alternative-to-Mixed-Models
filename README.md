@@ -1,8 +1,8 @@
-# Aggregation-as-a-Simpler-Alternative-to-Mixed-Models
+# Aggregation-as-a-Simple-Alternative-to-Mixed-Models
 
 This repo contains all the R scripts for the simulations and figures in the semester project 
 
-  "Aggregation as a Simpler Alternative to Mixed Models" 
+  "Aggregation as a Simple Alternative to Mixed Models" 
 
 written by Linus Kühne under the supervision of Dr. Markus Kalisch at the Seminar for Statistics.
 
