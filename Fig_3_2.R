@@ -1,4 +1,4 @@
-# this script generates Fig. 3.1
+# this script generates Fig. 3.2
 
 library(lme4)
 library(dplyr)
