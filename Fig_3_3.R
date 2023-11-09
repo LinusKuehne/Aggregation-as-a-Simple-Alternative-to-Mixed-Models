@@ -1,4 +1,4 @@
-# this script generates Fig. 3.2
+# this script generates Fig. 3.3
 
 
 default <- c(0.9510, 0.9530, 0.5568, 0.5656)
