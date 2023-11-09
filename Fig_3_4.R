@@ -1,4 +1,4 @@
-# this script generates Fig. 3.2 (both plots)
+# this script generates Fig. 3.4 (both plots)
 
 
 library(lme4)
