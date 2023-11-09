@@ -13,9 +13,9 @@ Fig. 2.1 is generated in default_RI_vs_aggRegr.R
 
 Fig. A.1 is generated in default_RIRS_vs_aggRegr.R
 
-Fig. A.2 is generated in default_RI_vs_aggRegr.R and RI_violation1.R through RI_violation5.R
+Fig. A.2 is generated in default_RI_vs_aggRegr.R and RI_violationX.R for X in {1,2,3,4,5}
 
-Fig. A.3 is generated in default_RIRS_vs_aggRegr.R and RIRS_violation1.R through RIRS_violation5.R
+Fig. A.3 is generated in default_RIRS_vs_aggRegr.R and RIRS_violationX.R for X in {1,2,3,4,5}
 
 The simulation in Section 2.1 is run by default_RI_vs_aggRegr.R
 
